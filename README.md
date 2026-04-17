@@ -18,7 +18,7 @@
 
 ## Features
 
-- **Auto-detection** — Scans the page source for any `*.myshopify.com` reference, so it works on custom domains (e.g. `petpaxco.com`) without any manual input
+- **Auto-detection** — Scans the page source for any `*.myshopify.com` reference, so it works on custom domains (e.g. `your-brand.com`) without any manual input
 - **Full product data** — Reads directly from `/products.json`; paginates automatically to retrieve all products (250 per page)
 - **Sort** by title, price, date, vendor, or product type
 - **Filter** by product type, vendor, and stock availability
