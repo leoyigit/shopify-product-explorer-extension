@@ -10,7 +10,18 @@
 [![Manifest](https://img.shields.io/badge/manifest-v3-blue?style=flat-square)](manifest.json)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 
-![Preview](https://raw.githubusercontent.com/leoyigit/shopify-product-explorer-extension/main/preview.png)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/leoyigit/shopify-product-explorer-extension/main/preview-2.png" alt="Product list view" width="100%" />
+      <sub><b>Product list — sort, filter, search, export</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/leoyigit/shopify-product-explorer-extension/main/preview-1.png" alt="Expanded product card" width="100%" />
+      <sub><b>Expanded card — variants, tags, description</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
